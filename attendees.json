@@ -74,7 +74,7 @@
        "email": "willsmith@utulsa.edu"
       }
     },
-	{
+    {
       "geometry": {
         "type": "Point", 
         "coordinates": [
@@ -90,6 +90,23 @@
         "twitter": "",
         "location": "St. Louis, MO", 
         "email": "ian-riley@utulsa.edu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -95.9436, 
+          36.1529
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "web": "", 
+        "name": "Matthew Hruz", 
+        "twitter": "",
+        "location": "Tulsa, OK", 
+        "email": "matthew.hruz@gmail.com"
       }
     }
   ]
